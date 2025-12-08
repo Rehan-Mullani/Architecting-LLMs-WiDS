@@ -4,7 +4,7 @@
 
 Welcome to Week 1! We are skipping the high-level APIs (like `torch.nn` or `Keras`) and going straight to the metal.
 
-This week, you will build **micrograd**: a tiny Autograd engine. You will implement the mathematical machinery that allows neural networks to learn. By the end of this week, the "magic" of how ChatGPT or Stable Diffusion updates its weights will be demystified—it's just the Chain Rule, applied recursively.
+This week, you will build **micrograd**: a tiny Autograd engine. You will implement the mathematical machinery that allows neural networks to learn. By the end of this week, the "magic" of how ChatGPT or Stable Diffusion updates its weights will be demystified it's just the Chain Rule, applied recursively.
 
 ## Learning Objectives
 
@@ -93,4 +93,5 @@ The notebook provides a **starter `Value` class** with basic functionality (`__i
 2.  **Verify:** Check your forked repo on GitHub to ensure your changes are visible.
 
 **Next Week:** We move from scalar values to **Tensors** and start building language models!
+
 
